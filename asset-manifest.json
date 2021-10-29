@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/react1/static/css/main.5adb6bb0.chunk.css",
-    "main.js": "/react1/static/js/main.54f81904.chunk.js",
-    "main.js.map": "/react1/static/js/main.54f81904.chunk.js.map",
-    "runtime-main.js": "/react1/static/js/runtime-main.468ed48c.js",
-    "runtime-main.js.map": "/react1/static/js/runtime-main.468ed48c.js.map",
-    "static/js/2.8855e7eb.chunk.js": "/react1/static/js/2.8855e7eb.chunk.js",
-    "static/js/2.8855e7eb.chunk.js.map": "/react1/static/js/2.8855e7eb.chunk.js.map",
-    "static/js/3.ca0bbe69.chunk.js": "/react1/static/js/3.ca0bbe69.chunk.js",
-    "static/js/3.ca0bbe69.chunk.js.map": "/react1/static/js/3.ca0bbe69.chunk.js.map",
+    "main.css": "/react1/static/css/main.43b1ec8f.chunk.css",
+    "main.js": "/react1/static/js/main.a6b82fa6.chunk.js",
+    "main.js.map": "/react1/static/js/main.a6b82fa6.chunk.js.map",
+    "runtime-main.js": "/react1/static/js/runtime-main.1a005816.js",
+    "runtime-main.js.map": "/react1/static/js/runtime-main.1a005816.js.map",
+    "static/js/2.33493568.chunk.js": "/react1/static/js/2.33493568.chunk.js",
+    "static/js/2.33493568.chunk.js.map": "/react1/static/js/2.33493568.chunk.js.map",
+    "static/js/3.07c16a9e.chunk.js": "/react1/static/js/3.07c16a9e.chunk.js",
+    "static/js/3.07c16a9e.chunk.js.map": "/react1/static/js/3.07c16a9e.chunk.js.map",
     "index.html": "/react1/index.html",
-    "static/css/main.5adb6bb0.chunk.css.map": "/react1/static/css/main.5adb6bb0.chunk.css.map",
-    "static/js/2.8855e7eb.chunk.js.LICENSE.txt": "/react1/static/js/2.8855e7eb.chunk.js.LICENSE.txt",
+    "static/css/main.43b1ec8f.chunk.css.map": "/react1/static/css/main.43b1ec8f.chunk.css.map",
+    "static/js/2.33493568.chunk.js.LICENSE.txt": "/react1/static/js/2.33493568.chunk.js.LICENSE.txt",
     "static/media/building.a55f63cb.jpg": "/react1/static/media/building.a55f63cb.jpg",
     "static/media/desk.ede0bbcc.jpg": "/react1/static/media/desk.ede0bbcc.jpg",
     "static/media/ionicons.min.css": "/react1/static/media/ionicons.b45d332f.svg",
-    "static/media/loft.b6e9a041.jpg": "/react1/static/media/loft.b6e9a041.jpg"
+    "static/media/loft.b6e9a041.jpg": "/react1/static/media/loft.b6e9a041.jpg",
+    "static/media/Registration-Form-with-Photo.css": "/react1/static/media/meeting.1bdd2c12.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.468ed48c.js",
-    "static/js/2.8855e7eb.chunk.js",
-    "static/css/main.5adb6bb0.chunk.css",
-    "static/js/main.54f81904.chunk.js"
+    "static/js/runtime-main.1a005816.js",
+    "static/js/2.33493568.chunk.js",
+    "static/css/main.43b1ec8f.chunk.css",
+    "static/js/main.a6b82fa6.chunk.js"
   ]
 }
